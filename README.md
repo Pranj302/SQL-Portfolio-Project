@@ -7,7 +7,7 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 
 use the dataset : https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 
-change the column names to lower case before importing data to sql server.Also replace space within column names with underscore.
+--change the column names to lower case before importing data to sql server.Also replace space within column names with underscore.
 
 alter table credit_card_transactions alter column transaction_id int
 alter table credit_card_transactions alter column city varchar(30)
