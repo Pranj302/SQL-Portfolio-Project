@@ -1,2 +1,6 @@
-# SQL-Portfolio-Project
-SQL Data Project for analyzing sales growth using SQL server and dataset
+/*
+SQL-Portfolio-Project to Analyze Sales Growth  
+
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
