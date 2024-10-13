@@ -1,0 +1,23 @@
+Requirement :
+
+
+
+
+1- Please identify the top five cities with the highest credit card expenditures, along with their percentage contributions to the total credit card spending.
+
+2- Please determine the month in which spending is highest for each card type, along with the corresponding expenditure for that month.
+
+3- Please provide the detailed transaction records (including all columns from the table) for each card type when the cumulative total spending reaches ₹1,000,000.
+
+4- Please identify the city with the lowest percentage of spending for the gold card type.
+
+5- Please provide the following information: city, highest expense type, and lowest expense type (e.g., Delhi, bills, fuel).
+
+6- Please provide the percentage contribution of spending by females for each expense type.
+
+7- Please identify the card and expense type combination that exhibits the highest month-over-month percentage growth for January 2014.
+
+8- Please identify the city with the highest ratio of total spending to the total number of transactions during weekends.
+
+9- Please determine which city took the least number of days to reach its 500th transaction following its first transaction.
+

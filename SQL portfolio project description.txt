@@ -1,0 +1,15 @@
+SQL Portfolio project.
+
+Measure Sales Data growth (for e.g. yearly,Monthly etc.) to check how the data is increased over a set period of time. Sales growth is usually calculated as a percentage.
+To analyze rate of financial health and can be cause for optimism for shareholders and stakeholders and improve strategic growth planning.
+
+
+Prerequisites : 
+1.) download credit card transactions dataset from below link :
+    https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-India
+2.) import the dataset in SQL server with table name : credit_card_transactions
+3.) change the column names to lower case before importing data to SQL server. Also replace space within column names with underscore.
+    while importing make sure to change the data types of columns. by default it shows everything as varchar.
+
+Hands on dataset : write 4-6 queries to explore the dataset and put your findings 
+
